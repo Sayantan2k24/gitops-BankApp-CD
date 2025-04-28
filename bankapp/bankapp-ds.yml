@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: sayantan2k21/bankapp:v3
+        image: sayantan2k21/bankapp:v9
         ports:
         - containerPort: 8080
         env:
